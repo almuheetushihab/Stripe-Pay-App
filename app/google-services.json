@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449181147179",
+    "project_id": "stripepayapp",
+    "storage_bucket": "stripepayapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449181147179:android:26652e208cdfba6c758a6e",
+        "android_client_info": {
+          "package_name": "com.example.stripepay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbMkP0pt5va6B_akDEcuiRNeenKrudCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
