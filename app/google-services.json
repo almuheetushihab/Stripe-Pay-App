@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:449181147179:android:26652e208cdfba6c758a6e",
+        "mobilesdk_app_id": "1:449181147179:android:9bc612e118581060758a6e",
         "android_client_info": {
-          "package_name": "com.example.stripepay"
+          "package_name": "com.example.stripe_pay_app"
         }
       },
       "oauth_client": [],
